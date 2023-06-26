@@ -1,0 +1,17 @@
+inputMeshFile C:\Users\Marcello\Downloads\bonifacio\bonifacio.ply
+sectionName section.ply
+createSection 1
+planeOffset 10.0f
+planeAxis 0.0 1.0 0.0
+iterations 10
+adaptive true
+selectedOnly true
+targetLenMult 0.01
+creaseAngle 60
+checkSurfaceDistance false
+maxSurfaceDistanceMult 0.01
+refineStep true
+collapseStep true
+edgeSwapStep true
+smoothStep true
+reprojectStep true
